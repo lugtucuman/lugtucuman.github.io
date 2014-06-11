@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LUG Tucuman</title>
+    <atom:link href="http://lugtucuman.github.io//feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://lugtucuman.github.io/</link>
+    <description>Linuxeros</description>
+    <pubDate>Tue, 10 Jun 2014 21:00:00 -0300</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Primer post</title>
+      <link>http://lugtucuman.github.io//articles/primer-post/</link>
+      <pubDate>Tue, 10 Jun 2014 21:00:00 -0300</pubDate>
+      <guid isPermaLink="true">http://lugtucuman.github.io//articles/primer-post/</guid>
+      <author></author>
+      <description>&lt;p&gt;Post de prueba&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
